@@ -25,3 +25,6 @@ form.addEventListener("submit", function(event) {
         alert("Invalid username or password");
     }
 });
+
+
+<password>thilip</password>
